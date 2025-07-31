@@ -2,6 +2,8 @@
   "name": "human-otamatone",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pranavsaigandikota.github.io/Humanotone",
+
   "dependencies": {
     "@mediapipe/camera_utils": "^0.3.1675466862",
     "@mediapipe/drawing_utils": "^0.3.1675466124",
@@ -44,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
