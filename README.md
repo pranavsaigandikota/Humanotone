@@ -1,4 +1,3 @@
-#Humanotone
 🎵 Humanotone is a browser-based musical instrument that uses TensorFlow.js, Mediapipe, and Tone.js to translate facial expressions and hand gestures into real-time sound. I built this project to explore the intersection of machine learning, human-computer interaction, and creative expression. It taught me how to use TensorFlow.js for pose and gesture recognition in the browser, handle real-time webcam input efficiently, and generate dynamic audio using web-based synthesizers.
 
 This project is especially meaningful because it opens up possibilities for hands-free music creation, making sound interaction more accessible and inclusive for people with limited mobility.
